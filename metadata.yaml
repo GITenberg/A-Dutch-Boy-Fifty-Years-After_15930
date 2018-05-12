@@ -1,0 +1,36 @@
+_repo: A-Dutch-Boy-Fifty-Years-After_15930
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bok, Edward William
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '1223'
+    url: http://www.gutenberg.org/2009/agents/1223
+    wikipedia: http://en.wikipedia.org/wiki/Edward_W._Bok
+  editor:
+    agent_name: Haney, John Louis
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '6380'
+    url: http://www.gutenberg.org/2009/agents/6380
+description: ''
+gutenberg_issued: '2005-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Periodical editors -- United States -- Biography'
+- !lcsh 'Ladies'' Home Journal'
+- !lcsh 'Bok, Edward William, 1863-1930'
+- !lcc 'PN'
+- !lcsh 'Dutch Americans -- Biography'
+title: A Dutch Boy Fifty Years After
+url: http://www.gutenberg.org/ebooks/15930
